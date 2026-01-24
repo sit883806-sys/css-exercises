@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd{
+    font-family:Verdana,"DajaVu Sans","sans-serif";
+    font-size: 14px;
+    background-color: rgb(224, 128, 167);
+}
+.odd.cool{
+    font-size: 24px;
+}
+#no2{
+    font-family: 'Times New Roman', Times, serif;
+    color: #0000ff;
+    font-size: 36px;
+}
+#no4{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
