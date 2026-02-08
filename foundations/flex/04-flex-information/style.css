@@ -24,3 +24,21 @@ img {
   justify-content: center;
   background: #eee;
 }
+.info{
+  display:flex;
+  justify-content: center;
+  gap: 52px;
+}
+.berry, .chili, .pepper, .saff{
+  display: flex;
+  width: 200px;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
